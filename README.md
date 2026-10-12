@@ -34,7 +34,7 @@ records both the original official URL (`source`) and the archived copy (`archiv
   pages of bilingual PDFs) either use legacy non-Unicode fonts (text comes out as Latin-1 garbage such
   as `hq¾-¿km-º|âG`) or lose stacked letters in extraction (e.g. the Dzongkha Constitution); they are
   not included. English pages of bilingual PDFs were kept.
-- **Currency.** The archived files date from 2013–2023. Amendments enacted later, and Acts not
+- **Currency.** The archived copies were captured between 2011 and 2024 (most in 2017). Amendments enacted later, and Acts not
   posted on either site, are missing; files have `status: unknown`. Amendment Acts are separate files
   (texts are not consolidated).
 - 97 archived PDFs gave no English text (Dzongkha-only, scanned, or not an Act) and 96 were
